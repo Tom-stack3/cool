@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Open up lots of terminals to crash the computer
 
 echo "lol"
